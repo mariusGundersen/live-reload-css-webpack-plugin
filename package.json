@@ -1,0 +1,13 @@
+{
+  "name": "live-reload-css-webpack-plugin",
+  "version": "1.0.0",
+  "description": "A very simple live-reload CSS plugin for webpack",
+  "main": "main.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "webpack": "^5.0.0"
+  }
+}
